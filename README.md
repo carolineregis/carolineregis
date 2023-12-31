@@ -1,3 +1,31 @@
+<table>
+  <tr>
+    <td>
+      
+<!-- Left Column Content -->
+
+### Left Column Heading
+
+- Left Column Item 1
+- Left Column Item 2
+- Left Column Item 3
+
+    </td>
+    <td>
+      
+<!-- Right Column Content -->
+
+### Right Column Heading
+
+- Right Column Item 1
+- Right Column Item 2
+- Right Column Item 3
+
+    </td>
+  </tr>
+</table>
+
+
 # CAROLINE REGIS
 
 ## Sobre mim
