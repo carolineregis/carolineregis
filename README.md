@@ -1,10 +1,17 @@
+# CAROLINE REGIS (the one and only)
+
 <table>
   <tr>
     <td>
       
 <!-- Left Column Content -->
 
-### Left Column Heading
+## Who?
+👋 Hello! I'm a young Brazilian woman with a deep passion for science and technology that has fascinated me for as long as I can remember. I proudly graduated from high school with an IT certificate, and ever since, I've been actively engaged in various software projects.
+
+One of the highlights of my journey has been the development of an educational browser game specifically designed for students within the autism spectrum. This project holds special significance for me, as it combines my technical skills with a meaningful purpose. The game is open for exploration, suggestions, and tips, and you can find it here.
+
+I'm continuously seeking ways to contribute to the tech community and create meaningful solutions. If you have any ideas or insights, feel free to reach out!🌟
 
 - Left Column Item 1
 - Left Column Item 2
@@ -26,14 +33,9 @@
 </table>
 
 
-# CAROLINE REGIS
 
-## Sobre mim
-👋 Hello! I'm a young Brazilian woman with a deep passion for science and technology that has fascinated me for as long as I can remember. I proudly graduated from high school with an IT certificate, and ever since, I've been actively engaged in various software projects.
 
-One of the highlights of my journey has been the development of an educational browser game specifically designed for students within the autism spectrum. This project holds special significance for me, as it combines my technical skills with a meaningful purpose. The game is open for exploration, suggestions, and tips, and you can find it here.
 
-I'm continuously seeking ways to contribute to the tech community and create meaningful solutions. If you have any ideas or insights, feel free to reach out!🌟
 
 - 🌱 Atualmente aprendendo [Tópico ou Tecnologia]
 - 💼 Trabalhando em [Projeto ou Empresa]
