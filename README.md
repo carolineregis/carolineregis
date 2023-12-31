@@ -5,7 +5,6 @@
     <td>
       
 <!-- Left Column Content -->
-
 ### Who?
 👋 Hello! I'm a young Brazilian woman with a deep passion for science and technology that has fascinated me for as long as I can remember. I proudly graduated from high school with an IT certificate, and ever since, I've been actively engaged in various software projects.
 
@@ -21,7 +20,6 @@ I'm continuously seeking ways to contribute to the tech community and create mea
     <td>
       
 <!-- Right Column Content -->
-
 ### Quem?
 👋 Olá! Sou uma jovem brasileira com uma paixão profunda por ciência e tecnologia que me fascina desde que me lembro. Orgulhosamente me formei no ensino médio com um certificado em TI e, desde então, tenho participado ativamente de diversos projetos de software.
 
