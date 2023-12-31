@@ -13,33 +13,30 @@ One of the highlights of my journey has been the development of an educational b
 
 I'm continuously seeking ways to contribute to the tech community and create meaningful solutions. If you have any ideas or insights, feel free to reach out!🌟
 
-- Left Column Item 1
-- Left Column Item 2
-- Left Column Item 3
+- 🌱 Atualmente aprendendo [Tópico ou Tecnologia]
+- 💼 Trabalhando em [Projeto ou Empresa]
+- 📫 Como me encontrar: [Seu site pessoal, LinkedIn, etc.]
 
     </td>
     <td>
       
 <!-- Right Column Content -->
 
-### Right Column Heading
+### Quem?
+👋 Olá! Sou uma jovem mulher brasileira com uma paixão profunda por ciência e tecnologia que me fascina desde que me lembro. Orgulhosamente me formei no ensino médio com um certificado em TI e, desde então, tenho participado ativamente de diversos projetos de software.
 
-- Right Column Item 1
-- Right Column Item 2
-- Right Column Item 3
+Um dos pontos altos da minha jornada foi o desenvolvimento de um jogo educativo para navegador, especialmente projetado para estudantes dentro do espectro do autismo. Este projeto tem um significado especial para mim, pois combina minhas habilidades técnicas com um propósito significativo. O jogo está aberto para exploração, sugestões e dicas, e você pode encontrá-lo aqui.
+
+Estou constantemente buscando maneiras de contribuir para a comunidade de tecnologia e criar soluções significativas. Se você tiver alguma ideia ou percepção, sinta-se à vontade para entrar em contato! 🌟
+
+- 🌱 Atualmente aprendendo [Tópico ou Tecnologia]
+- 💼 Trabalhando em [Projeto ou Empresa]
+- 📫 Como me encontrar: [Seu site pessoal, LinkedIn, etc.]
 
     </td>
   </tr>
 </table>
 
-
-
-
-
-
-- 🌱 Atualmente aprendendo [Tópico ou Tecnologia]
-- 💼 Trabalhando em [Projeto ou Empresa]
-- 📫 Como me encontrar: [Seu site pessoal, LinkedIn, etc.]
 
 ## Habilidades
 
